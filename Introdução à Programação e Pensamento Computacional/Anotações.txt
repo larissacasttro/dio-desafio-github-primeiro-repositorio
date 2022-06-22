@@ -1,0 +1,8 @@
+O Pensamento Computacional é um processo de pensamento envolvido na expressão de soluções em passos computacionais ou algoritmos que podem ser implementados no computador.
+
+Ele é baseado em 4 pilares: 
+
+- Decomposição: segmentar problemas
+- Reconhecimento de padrões: identificar similaridade e tendências
+- Abstração: extrapolar o conceito do problema para uma forma generalista
+- Design de algoritmos: automotizar, definir passo a passo a solução do problema.
